@@ -1,0 +1,132 @@
+Hello|Greetings|Hello. I am Dexter. I will serve your requests.
+hi hello|Greetings|Hello. I am Dexter. I will serve your requests.
+hi |Greetings|Hello. I am Dexter. I will serve your requests.
+hi|Greetings|Hello. I am Dexter. I will serve your requests.
+hi|Greetings|Hello. I am Dexter. I will serve your requests.
+hey|Greetings|Hello. I am Dexter. I will serve your requests.
+hello, hi|Greetings|Hello. I am Dexter. I will serve your requests.
+hey|Greetings|Hello. I am Dexter. I will serve your requests.
+hey, hi|Greetings|Hello. I am Dexter. I will serve your requests.
+hey, hello|Greetings|Hello. I am Dexter. I will serve your requests.
+Good morning|Morning|Good Morning. I am Dexter. I will serve your requests.
+Good afternoon|Afternoon|Good afternoon. I am Dexter. I will serve your requests.
+Good evening|Evening|Good evening. I am Dexter. I will serve your requests.
+Good night|Goodbye|Good night. I am off. Take care.
+How are you today?|Opening|I'm fine! Thank you. How can I help you?
+want help|Help|How can I help you?
+need help|Help|How can I help you?
+help me|Help|How can I help you?
+I don't want your help.|No-Help|Ok sir/madam. No problem. Have a nice day.
+I don't want your assistance|No-Help|Ok sir/madam. No problem. Have a nice day.
+No help required|No-Help|Ok sir/madam. No problem. Have a nice day.
+It has been great talking to you.|Closing|It's glad to know that I have been helpful. Have a good day!
+great|Closing|It's glad to know that I have been helpful. Have a good day!
+thank you for your help|Closing|It's glad to know that I have been helpful. Have a good day!
+thank you|Closing|It's glad to know that I have been helpful. Have a good day!
+thank you very much|Closing|It's glad to know that I have been helpful. Have a good day!
+thanks.|Closing|You're welcome!It's glad to know that I have been helpful. Have a good day!
+thanks very much|Closing|It's glad to know that I have been helpful. Have a good day!
+How many types of food are there?|Food-Type|Currently I know about two: Italian and British food.
+types of food?|Food-Type|Currently I know about two: Italian and British food.
+type food?|Food-Type|Currently I know about two: Italian and British food.
+food type?|Food-Type|Currently I know about two: Italian and British food.
+How many orders can I take?|Default-Utilized-Introduction|You can order 12.
+How many orders I can take?|Default-Utilized-Introduction|You can order 12.
+how many orders did I take?|Utilized-Order|You have ordered 6.
+How many orders have I taken?|Utilized-Order|You have ordered 6.
+How many orders I have already taken?|Utilized-Order|You have ordered 6.
+Tell me the orders count I have taken?|Utilized-Order|You have ordered 6.
+How many orders have I taken?|Utilized-Order|You have ordered 6.
+number of orders taken?|Utilized-Order|You have ordered 6.
+orders taken?|Utilized-Order|You have ordered 6.
+number of orders already taken?|Utilized-Order|You have ordered 6.
+orders already taken?|Utilized-Order|You have ordered 6.
+Tell me number of orders I have taken|Utilized-Order|You have ordered 6.
+my taken orders|Utilized-Order|You have ordered 6.
+orders have taken?|Utilized-Order|You have ordered 6.
+How many special orders have I taken|Utilized-Special-Order|You have taken 2 special orders.
+How many special orders I took|Utilized-Special-Order|You have taken 2 special orders.
+special orders taken|Utilized-Special-Order|You have taken 2 special orders.
+number of special orders I have taken?|Utilized-Special-Order|You have taken 2 special orders.
+tell me the special orders count I have taken|Utilized-Special-Order|You have taken 2 special orders.
+tell me number of special orders I have taken|Utilized-Special-Order|You have taken 2 special orders.
+can you tell me number of special orders I have taken|Utilized-Special-Order|You have taken 2 special orders.
+please tell me number of special orders I have taken|Utilized-Special-Order|You have taken 2 special orders.
+number of special orders taken?|Utilized-Special-Order|You have taken 2 special orders.
+number of special orders already taken?|Utilized-Special-Order|You have taken 2 special orders.
+special orders taken?|Utilized-Special-Order|You have taken 2 special orders.
+special orders already taken?|Utilized-Special-Order|You have taken 2 special orders.
+count special orders I have taken|Utilized-Special-Order|You have taken 2 special orders.
+tell me the special orders count I have taken|Utilized-Special-Order|You have taken 2 special orders.
+tell me the special orders count I have taken|Utilized-Special-Order|You have taken 2 special orders.
+tell me the special orders count I have taken|Utilized-Special-Order|You have taken 2 special orders.
+How many special orders have I ordered|Utilized-Special-Order|You have taken 2 special orders.
+How many special orders have I ordered?|Utilized-Special-Order|You have taken 2 special orders.
+How many options do I have?|Default-Option|You have 25 options.
+How many options can I take?|Default-Option|You have 25 options.
+How many options are remaining?|Default-Option|You have 25 options.
+remaining options.|Default-Option|You have 25 options.
+What are my options?|Default-Option|You have 25 options.
+Tell me my options.|Default-Option|You have 25 options.
+my remaining options.|Default-Option|You have 25 options.
+options.|Default-Option|You have 25 options.
+options pending.|Default-Option|You have 25 options.
+tell me the options count I have remaining|Option|You have 25 options.
+How many options do I have?|Option|You have 25 options.
+What are my options?|Option|You have 5 options remaining.
+What is my option?|Option|You have 5 options remaining.
+Tell me my options.|Option|You have 5 options remaining.
+How many options are remaining?|Option|You have 5 options remaining.
+Tell me my options remaining|Option|You have 5 options remaining.
+remaining options.|Option|You have 5 options remaining.
+options remaining.|Option|You have 5 options remaining.
+number of options remaining.|Option|You have 5 options remaining.
+number of options I have?|Option|You have 5 options remaining.
+options remaining.|Option|You have 5 options remaining.
+Please tell me the options count I have remaining.|Option|You have 5 options remaining.
+Tell me the options count I have remaining.|Option|You have 5 options remaining.
+the options count I have remaining.|Option|You have 5 options remaining.
+my options count remaining.|Option|You have 5 options remaining.
+Tell me my options remaining.|Option|You have 5 options remaining.
+options remaining.|Option|You have 5 options remaining.
+options remains.|Option|You have 5 options remaining.
+can you tell me number of options I have remaining|Option|You have 5 options remaining.
+please tell me number of options I have remaining|Option|You have 5 options remaining.
+How many special options are remaining?|Special-Option|You have 2 special options remaining.
+special options remaining?|Special-Option|You have 2 special options remaining.
+number of special options I have remaining?|Special-Option|You have 2 special options remaining.
+How many special options do I have?|Special-Option|You have 2 special options remaining.
+How many special options do I have|Special-Option|You have 2 special options remaining.
+Tell me my special options?|Special-Option|You have 2 special options remaining.
+Tell me my special options left?|Special-Option|You have 2 special options remaining.
+How many special options can I take?|Special-Option|You have 2 special options remaining.
+special options take?|Special-Option|You have 2 special options remaining.
+How many special options I have?|Special-Option|You have 2 special options remaining.
+Tell me my special options balance.|Special-Option|You have 2 special options remaining.
+tell me the special options count I have remaining|Special-Option|You have 2 special options remaining.
+special options.|Special-Option|You have 2 special options remaining.
+special options?|Special-Option|You have 2 special options remaining.
+special options balance|Special-Option|You have 2 special options remaining.
+optional|Special-Option|You have 2 special options remaining.
+Tell me the special options count I have remaining.|Special-Option|You have 2 special options remaining.
+the special options count I have remaining?|Special-Option|You have 2 special options remaining.
+my special options count remaining.|Special-Option|You have 2 special options remaining.
+please tell me number of special options I have remaining|Special-Option|You have 2 special options remaining.
+please tell me number of special options I have remaining.|Special-Option|You have 2 special options remaining.
+number of special options I have remaining.|Special-Option|You have 2 special options remaining.
+number of special options I have|Special-Option|You have 2 special options remaining.
+number of special options?|Special-Option|You have 2 special options remaining.
+How many living records do I have?|LR|You have 30 living records.
+number of living records I have?|LR|You have 30 living records.
+tell me the living records count I have|LR|You have 30 living records.
+tell me number of living records I have|LR|You have 30 living records.
+can you tell me number of living records I have|LR|You have 30 living records.
+please tell me number of living records I have|LR|You have 30 living records.
+How many living records do I have from previous year?|LR|You have 30 living records.
+Tell me my living records from previous year|LR|You have 30 living records.
+Tell me my living records|LR|You have 30 living records.
+Tell me living records|LR|You have 30 living records.
+living records|LR|You have 30 living records.
+living records|LR|You have 30 living records.
+records|LR|You have 30 living records.
+previous year living records|LR|You have 30 living records.
